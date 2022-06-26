@@ -1,0 +1,3 @@
+course_subject, course_number, course_name, description, prerequisites
+"MATH", 100, "Calculus I", "Review of analytic geometry; functions and graphs; limits; derivatives; techniques and applications of differentiation; antiderivatives; the definite integral and area; logarithmic and exponential functions; trigonometric functions; Newton's, Simpson's and trapezoidal methods; l'Hopital's rule."
+"MATH", 101, "Calculus II", "Volumes; arc length and surface area; techniques of integration with applications; polar coordinates and area; Taylor's formula; improper integrals; series and tests for convergence; power series and Taylor series; complex numbers.", 
