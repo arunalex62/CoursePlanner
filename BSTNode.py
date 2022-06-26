@@ -1,14 +1,27 @@
+import Course
 class BSTNode: 
     def __init__(self, course=None):
         self.left = None
         self.right = None
-        self.course = course
+        self.course = Course.Course
     
-    def insert(self, course):
+    def insert(self, courseToAdd):
         if self.course is None:
-            self = course
+            print("hi")
+            self = courseToAdd
             return
-        elif(course.course_number > self.course_number):
-            self.insert(self.right, course)
+        elif(courseToAdd.course_number > self.course.course_number):
+            self.right.insert(courseToAdd)
         else: 
-            self.insert(self.left, course)
+            self.left.insert(courseToAdd)
+
+    def printInorder(self):
+        if self:
+            # First recur on left child
+            self.printInorder(self.left)
+    
+            # then print the data of node
+            print(self.course.status),
+    
+            # now recur on right child
+            self.printInorder(self.right)

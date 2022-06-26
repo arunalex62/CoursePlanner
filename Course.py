@@ -1,6 +1,6 @@
 class Course:
     course_subject = "Course Subject Unknown." 
-    course_number = "Course Number Unknown."
+    course_number = 0
     course_name = " Course Name Unknown."
     description = "Description not set."
     prerequisites = []
@@ -22,5 +22,4 @@ class Course:
             for course in self.prerequisites:
                 print(course.course_subject + " " + course.course_number, end = '') 
             print()
-
 
