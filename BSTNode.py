@@ -3,17 +3,23 @@ class BSTNode:
     def __init__(self, course=None):
         self.left = None
         self.right = None
-        self.course = Course.Course
+        self.course = course
     
     def insert(self, courseToAdd):
-        if self.course is None:
-            print("hi")
-            self = courseToAdd
+        if not self.course:
+            self.course = courseToAdd
             return
-        elif(courseToAdd.course_number > self.course.course_number):
-            self.right.insert(courseToAdd)
-        else: 
-            self.left.insert(courseToAdd)
+        if (courseToAdd.course_number < self.course.course_number):
+            if self.left: 
+                self.left.insert(courseToAdd)
+                return
+            self.left = BSTNode(courseToAdd)
+            return
+
+        if(self.right):
+            self.right.insert(courseToAdd) 
+            return
+        self.right = BSTNode(courseToAdd)
 
     def printInorder(self):
         if self:

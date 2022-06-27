@@ -3,7 +3,7 @@ class Course:
     course_number = 0
     course_name = " Course Name Unknown."
     description = "Description not set."
-    prerequisites = []
+    prerequisites = ""
 
     def __init__(self, course_subject, course_number, course_name, description, prerequisites):
         self.course_subject = course_subject 
@@ -17,9 +17,9 @@ class Course:
         print(self.course_number)
         print(self.course_name)
         print(self.description)
-        if(self.prerequisites):
-            print("Prerequisites: ", end = '') 
-            for course in self.prerequisites:
-                print(course.course_subject + " " + course.course_number, end = '') 
-            print()
+        if(len(self.prerequisites) == 0):
+            print("Prerequisites: None")
+        else:
+            print("Prerequisites: " + self.prerequisites)
+        print()
 
