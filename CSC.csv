@@ -1,0 +1,80 @@
+Department,Number,Description,coAndPrerequisites
+CSC,100,Elementary Computing,
+CSC,101,Untangling the Web by Analyzing and Architecting Digital Solutions,
+CSC,103,Introductory Programming and Software Development,Permission of the Department.
+CSC,105,Computers and Information Processing,
+CSC,106,The Practice of Computer Science,
+CSC,110,Fundamentals of Programming I,Complete 1 of the followingComplete 1 of the followingFoundations of Math 12Mathematics 12Pre-Calculus 12Complete 1 of: MATH100 - Calculus I (1.5)MATH102 - Calculus for Students in the Social and Biological Sciences (1.5)MATH109 - Introduction to Calculus (1.5)MATH120 - Precalculus Mathematics (1.5)
+CSC,111,Fundamentals of Programming with Engineering Applications,Complete 1 of the followingComplete 1 of the followingFoundations of Math 12Mathematics 12Pre-Calculus 12Complete 1 of: MATH100 - Calculus I (1.5)MATH109 - Introduction to Calculus (1.5)MATH120 - Precalculus Mathematics (1.5)
+CSC,115,Fundamentals of Programming II,Complete 1 of: CSC110 - Fundamentals of Programming I (1.5)CSC111 - Fundamentals of Programming with Engineering Applications (1.5)
+CSC,116,Fundamentals of Programming with Engineering Applications II,Complete 1 of: CSC110 - Fundamentals of Programming I (1.5)CSC111 - Fundamentals of Programming with Engineering Applications (1.5)
+CSC,130,World Wide Web and Mobile Applications,
+CSC,167,"Game Strategy, Interaction and Design",
+CSC,205,2D Computer Graphics and Image Processing,Complete 1 of: MATH151 - Finite Mathematics (1.5)MATH211 - Matrix Algebra I (1.5)
+CSC,225,Algorithms and Data Structures I,Complete all of the followingComplete 1 of: CSC115 - Fundamentals of Programming II (1.5)CSC116 - Fundamentals of Programming with Engineering Applications II (1.5)Complete all of: MATH122 - Logic and Foundations (1.5)
+CSC,226,Algorithms and Data Structures II,Complete all of: CSC225 - Algorithms and Data Structures I (1.5)
+CSC,230,Introduction to Computer Architecture,Complete 1 of: CSC115 - Fundamentals of Programming II (1.5)CSC116 - Fundamentals of Programming with Engineering Applications II (1.5)
+CSC,299,Undergraduate Directed Project,Complete all of the followingComplete 2 of the followingEarn a minimum grade of B+ in each of the following: CSC115 - Fundamentals of Programming II (1.5)Earn a minimum grade of B+ in each of the following: CSC226 - Algorithms and Data Structures II (1.5)Earn a minimum grade of B+ in each of the following: CSC230 - Introduction to Computer Architecture (1.5)Earn a minimum grade of B+ in each of the following: SENG265 - Software Development Methods (1.5)permission of the department.
+CSC,305,Introduction to Computer Graphics,Complete all of the followingComplete all of: CSC226 - Algorithms and Data Structures II (1.5)SENG265 - Software Development Methods (1.5)Complete 1 of: MATH110 - Matrix Algebra for Engineers (1.5)MATH211 - Matrix Algebra I (1.5)
+CSC,320,Foundations of Computer Science,Complete all of: CSC226 - Algorithms and Data Structures II (1.5)
+CSC,322,Logic and Programming,Complete all of the followingComplete 1 of: CSC115 - Fundamentals of Programming II (1.5)CSC116 - Fundamentals of Programming with Engineering Applications II (1.5)Complete 1 of: MATH122 - Logic and Foundations (1.5)PHIL203 - Elementary Formal Logic (1.5)
+CSC,330,Programming Languages,Complete all of the followingComplete all of: CSC226 - Algorithms and Data Structures II (1.5)SENG265 - Software Development Methods (1.5)Complete 1 of: CSC230 - Introduction to Computer Architecture (1.5)CENG255 - Introduction to Computer Architecture (1.5)ECE255 - Introduction to Computer Architecture (1.5)
+CSC,349A,Numerical Analysis,Complete all of the followingComplete 1 of: CSC110 - Fundamentals of Programming I (1.5)CSC111 - Fundamentals of Programming with Engineering Applications (1.5)Complete 1 of: MATH110 - Matrix Algebra for Engineers (1.5)MATH211 - Matrix Algebra I (1.5)Complete 1 of the followingComplete all of: MATH200 - Calculus III (1.5)MATH201 - Introduction to Differential Equations (1.5)Complete all of: MATH202 - Intermediate Calculus for CSC and EOS (1.5)Complete all of: MATH204 - Calculus IV (1.5)
+CSC,350,Computer Architecture,Complete all of: CSC225 - Algorithms and Data Structures I (1.5)CSC230 - Introduction to Computer Architecture (1.5)
+CSC,355,Digital Logic and Computer Organization,Complete all of the followingComplete 1 of: CSC230 - Introduction to Computer Architecture (1.5)CENG255 - Introduction to Computer Architecture (1.5)ECE255 - Introduction to Computer Architecture (1.5)Complete all of: MATH122 - Logic and Foundations (1.5)
+CSC,360,Operating Systems,Complete all of the followingComplete all of: SENG265 - Software Development Methods (1.5)Complete 1 of: CSC230 - Introduction to Computer Architecture (1.5)CENG255 - Introduction to Computer Architecture (1.5)ECE255 - Introduction to Computer Architecture (1.5)
+CSC,361,Computer Communications and Networks,Complete all of the followingComplete all of: SENG265 - Software Development Methods (1.5)Complete 1 of: CSC230 - Introduction to Computer Architecture (1.5)CENG255 - Introduction to Computer Architecture (1.5)ECE255 - Introduction to Computer Architecture (1.5)
+CSC,370,Database Systems,Complete all of: CSC226 - Algorithms and Data Structures II (1.5)SENG265 - Software Development Methods (1.5)
+CSC,371,Data Management and Visualization,Complete all of the followingComplete 1 of the followingPrinciples of Mathematics 11Complete 1 of: MATH100 - Calculus I (1.5)MATH102 - Calculus for Students in the Social and Biological Sciences (1.5)MATH120 - Precalculus Mathematics (1.5)and minimum third-year standing.
+CSC,375,Introduction to Systems Analysis,Complete 1 of the followingComplete all of: SENG265 - Software Development Methods (1.5)Complete all of the followingComplete all of: HINF130 - Introduction to Health Information Technology (1.5)Completed or concurrently enrolled in all of: HINF140 - Introduction to the Canadian Health Care System (1.5)
+CSC,421,Introduction to Artificial Intelligence,Complete all of the followingComplete all of: CSC226 - Algorithms and Data Structures II (1.5)minimum fourth-year standing.
+CSC,422,Graph Algorithms,Complete all of the followingComplete 1 of the followingComplete all of: CSC226 - Algorithms and Data Structures II (1.5)Complete all of: CSC225 - Algorithms and Data Structures I (1.5)MATH222 - Discrete and Combinatorial Mathematics (1.5)minimum third-year standing.
+CSC,423,Randomized Algorithms,Complete all of the followingEarn a minimum grade of B+ in each of the following: CSC226 - Algorithms and Data Structures II (1.5)minimum third-year standing.
+CSC,425,Analysis of Algorithms,Complete all of: CSC320 - Foundations of Computer Science (1.5)
+CSC,426,Computational Geometry,Complete all of the followingComplete all of: CSC226 - Algorithms and Data Structures II (1.5)minimum third-year standing.
+CSC,428A,Combinatorial Algorithms,Complete all of the followingComplete 1 of the followingEarn a minimum grade of B+ in each of the following: CSC226 - Algorithms and Data Structures II (1.5)Complete all of the followingEarn a minimum grade of B+ in each of the following: CSC225 - Algorithms and Data Structures I (1.5)Earn a minimum grade of B in each of the following: MATH222 - Discrete and Combinatorial Mathematics (1.5)minimum third-year standing.
+CSC,429,Cryptography,Complete all of the followingComplete 1 of the followingComplete all of: CSC320 - Foundations of Computer Science (1.5)Complete all of: MATH110 - Matrix Algebra for Engineers (1.5)STAT254 - Probability and Statistics for Engineers (1.5)Complete all of: MATH222 - Discrete and Combinatorial Mathematics (1.5)and minimum third-year standing.
+CSC,435,Compiler Construction,Complete all of: CSC320 - Foundations of Computer Science (1.5)CSC330 - Programming Languages (1.5)
+CSC,445,Operations Research: Linear Programming,Complete all of the followingComplete all of: CSC225 - Algorithms and Data Structures I (1.5)Complete 1 of: MATH110 - Matrix Algebra for Engineers (1.5)MATH211 - Matrix Algebra I (1.5)minimum third-year standing.
+CSC,446,Operations Research: Simulation,Complete all of the followingComplete 1 of: CSC115 - Fundamentals of Programming II (1.5)CSC116 - Fundamentals of Programming with Engineering Applications II (1.5)Complete 1 of: PHYS342 - Computational Modeling and Analysis (1.5)STAT252 - Statistics for Business (1.5)STAT254 - Probability and Statistics for Engineers (1.5)STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)GEOG226 - Introduction to Quantitative Methods in Geography (1.5)minimum third-year standing.
+CSC,449,Numerical Linear Algebra,Earn a minimum grade of B in each of the following: CSC349A - Numerical Analysis (1.5)
+CSC,454,Fault Tolerant Computing,Complete all of: CSC360 - Operating Systems (1.5)
+CSC,460,Design and Analysis of Real-time Systems,Complete all of the followingComplete 1 of: CSC355 - Digital Logic and Computer Organization (1.5)CENG355 - Microprocessor-Based Systems (1.5)ECE355 - Microprocessor-Based Systems (1.5)Complete all of: CSC360 - Operating Systems (1.5)
+CSC,461,Multimedia Systems,Complete all of the followingComplete all of: CSC360 - Operating Systems (1.5)Complete 1 of: CSC361 - Computer Communications and Networks (1.5)CENG460 - Communication Networks (1.5)ECE458 - Communication Networks (1.5)
+CSC,462,Distributed Computing,Complete all of the followingComplete all of: CSC360 - Operating Systems (1.5)Complete 1 of: CSC361 - Computer Communications and Networks (1.5)CSC450 - Computer Communications and Networks (1.5)CENG460 - Communication Networks (1.5)ECE458 - Communication Networks (1.5)
+CSC,463,Wireless and Mobile Networks,Complete 1 of: CSC361 - Computer Communications and Networks (1.5)CSC450 - Computer Communications and Networks (1.5)CENG460 - Communication Networks (1.5)ECE458 - Communication Networks (1.5)
+CSC,464,Concurrency,Complete all of: CSC320 - Foundations of Computer Science (1.5)CSC360 - Operating Systems (1.5)
+CSC,466,Overlay and Peer-to-Peer Networking,Complete 1 of: CSC361 - Computer Communications and Networks (1.5)CSC450 - Computer Communications and Networks (1.5)CENG460 - Communication Networks (1.5)ECE458 - Communication Networks (1.5)
+CSC,467,"Switching, Network Traffic and Quality of Service",Complete 1 of: CSC361 - Computer Communications and Networks (1.5)CSC450 - Computer Communications and Networks (1.5)CENG460 - Communication Networks (1.5)ECE458 - Communication Networks (1.5)
+CSC,471,Fundamentals of Computer Rendering,Complete all of: CSC305 - Introduction to Computer Graphics (1.5)
+CSC,472,Fundamentals of Computer Modelling,Complete all of: CSC305 - Introduction to Computer Graphics (1.5)
+CSC,473,Fundamentals of Computer Animation,Complete all of: CSC305 - Introduction to Computer Graphics (1.5)
+CSC,475,Music Retrieval Techniques,Complete 2 of: CSC330 - Programming Languages (1.5)CSC360 - Operating Systems (1.5)CSC370 - Database Systems (1.5)ECE260 - Continuous-Time Signals and Systems (1.5)ECE310 - Digital Signal Processing I (1.5)ELEC260 - Continuous-Time Signals and Systems (1.5)ELEC310 - Digital Signal Processing I (1.5)SENG310 - Human Computer Interaction (1.5)SENG330 - Object-Oriented Software Development (1.5)
+CSC,482A,Topics in Algorithms,
+CSC,482B,Topics in Algorithms,
+CSC,482C,Topics in Algorithms,
+CSC,482D,Topics in Algorithms,
+CSC,483A,Topics in Programming Methodology,
+CSC,483B,Topics in Programming Methodology,
+CSC,483C,Topics in Programming Methodology,
+CSC,483D,Topics in Programming Methodology,
+CSC,484A,Topics in Scientific Computing,
+CSC,484B,Topics in Scientific Computing,
+CSC,484C,Topics in Scientific Computing,
+CSC,484D,Topics in Scientific Computing,
+CSC,485A,Topics in Systems,
+CSC,485B,Topics in Systems,
+CSC,485C,Topics in Systems,
+CSC,485D,Topics in Systems,
+CSC,485E,Topics in Systems,
+CSC,485F,Topics in Systems,
+CSC,485G,Topics in Systems,
+CSC,485H,Topics in Systems,
+CSC,486A,Topics in Graphics,
+CSC,486B,Topics in Graphics,
+CSC,486C,Topics in Graphics,
+CSC,486D,Topics in Graphics,
+CSC,490,Directed Studies,Complete all of the followingMinimum fourth-year standing in the Computer Science programpermission of the department.
+CSC,497,Interdisciplinary Project,Fourth-year standing in a Computer Science Combined Program.
+CSC,498,Bioinformatics Project,Minimum fourth-year standing in the Computer Science program with Bioinformatics Optionor permission of the department.
+CSC,499,Honours Seminar and Project,"Complete all of the followingMinimum fourth-year standingdeclared Honours in Computer Science or declared Combined Honours in Mathematics and Computer Science, in Physics and Computer Science, or in Statistics and Computer Science."

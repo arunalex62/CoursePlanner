@@ -1,0 +1,28 @@
+Department,Number,Description,coAndPrerequisites
+SENG,265,Software Development Methods,Complete 1 of: CSC115 - Fundamentals of Programming II (1.5)CSC116 - Fundamentals of Programming with Engineering Applications II (1.5)
+SENG,275,Software Testing,Complete all of: SENG265 - Software Development Methods (1.5)
+SENG,310,Human Computer Interaction,Complete 1 of: SENG221 - SOFTWARE ARCH+DEV METHOD (1.5)SENG265 - Software Development Methods (1.5)CENG241 - Digital Design (1.5)ECE241 - Digital Design (1.5)
+SENG,321,Requirements Engineering,Complete all of: SENG265 - Software Development Methods (1.5)
+SENG,330,Object-Oriented Software Development,Complete all of: SENG265 - Software Development Methods (1.5)
+SENG,350,Software Architecture and Design,Complete all of the followingComplete all of: SENG275 - Software Testing (1.5)minimum second-year standing.
+SENG,360,Security Engineering,Complete all of the followingComplete all of: SENG265 - Software Development Methods (1.5)minimum third-year standing in the Software Engineering or Computer Engineering or Computer Science program.
+SENG,371,Software Evolution,Complete 1 of: SENG271 - Software Model Engineering (1.5)SENG275 - Software Testing (1.5)SENG299 - Software Architecture and Design (1.5)SENG321 - Requirements Engineering (1.5)
+SENG,401,Social and Professional Issues,Minimum fourth-year standing.
+SENG,411,Advanced Methods for Human Computer Interaction,Complete all of the followingComplete all of: SENG310 - Human Computer Interaction (1.5)Complete 1 of: STAT252 - Statistics for Business (1.5)STAT254 - Probability and Statistics for Engineers (1.5)STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)
+SENG,421,Global Software Engineering,Complete all of the followingComplete all of: SENG265 - Software Development Methods (1.5)minimum fourth-year standing.
+SENG,422,Advanced Software Architecture,Complete 1 of: SENG271 - Software Model Engineering (1.5)SENG299 - Software Architecture and Design (1.5)SENG330 - Object-Oriented Software Development (1.5)SENG350 - Software Architecture and Design (1.5)
+SENG,426,Software Quality Engineering,Complete all of the followingComplete 1 of: SENG321 - Requirements Engineering (1.5)SENG371 - Software Evolution (1.5)CENG356 - Engineering System Software (1.5)ECE356 - Engineering System Software (1.5)Complete all of: SENG275 - Software Testing (1.5)
+SENG,435,Computer-Supported Cooperative Work,Complete all of: SENG310 - Human Computer Interaction (1.5)
+SENG,440,Embedded Systems,Complete 1 of: CENG355 - Microprocessor-Based Systems (1.5)CSC355 - Digital Logic and Computer Organization (1.5)ECE355 - Microprocessor-Based Systems (1.5)
+SENG,460,Practice of Information Security and Privacy,Minimum fourth-year standing in the Faculty of Engineering.
+SENG,461,Network Security,Complete 1 of: CENG460 - Communication Networks (1.5)CSC361 - Computer Communications and Networks (1.5)ECE458 - Communication Networks (1.5)
+SENG,468,Software System Scalability,Complete 1 of the followingComplete all of: CSC360 - Operating Systems (1.5)CSC370 - Database Systems (1.5)Complete all of the followingComplete 1 of: CENG356 - Engineering System Software (1.5)ECE356 - Engineering System Software (1.5)Complete 1 of: CENG460 - Communication Networks (1.5)ECE458 - Communication Networks (1.5)
+SENG,474,Data Mining,Complete all of the followingComplete all of: SENG265 - Software Development Methods (1.5)Complete 1 of: MATH110 - Matrix Algebra for Engineers (1.5)MATH211 - Matrix Algebra I (1.5)Complete 1 of: STAT252 - Statistics for Business (1.5)STAT254 - Probability and Statistics for Engineers (1.5)STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)minimum third-year standing.
+SENG,475,Advanced Programming Techniques for Robust Efficient Computing,Complete 1 of: SENG265 - Software Development Methods (1.5)CENG255 - Introduction to Computer Architecture (1.5)CSC230 - Introduction to Computer Architecture (1.5)CSC349A - Numerical Analysis (1.5)ECE255 - Introduction to Computer Architecture (1.5)or permission of the department.
+SENG,480A,Topics in Software Engineering,
+SENG,480B,Topics in Software Engineering,
+SENG,480C,Topics in Software Engineering,
+SENG,480D,Topics in Software Engineering,
+SENG,490,Directed Studies,Permission of the department.
+SENG,498,Honours Thesis,Complete all of the followingAll required 300-level courses in the Software Engineering Programminimum GPA of 7.0 over all required 3rd year coursespermission of the department.
+SENG,499,Design Project II,Complete all of the followingComplete 1 of: SENG299 - Software Architecture and Design (1.5)SENG350 - Software Architecture and Design (1.5)Complete all of: ENGR002 - Work Term 2 (4.5)minimum fourth-year standing in the Software Engineering program.
