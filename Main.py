@@ -45,9 +45,7 @@ import re
 # print(re.sub('<[^<]+?>', '', course_info['preAndCorequisites']))
 
 def main(): 
-    API_Functions.Course_CSV_Fill("MECH")
-    API_Functions.Course_CSV_Fill("CSC")
-    API_Functions.Course_CSV_Fill("SENG")
+    API_Functions.Course_CSV_Fill("MATH")
 
 if __name__ == "__main__": 
     main()
