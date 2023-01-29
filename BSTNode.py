@@ -31,3 +31,15 @@ class BSTNode:
     
             # now recur on right child
             self.printInorder(self.right)
+    
+    def find(self, courseToFind):
+        if not self.course:
+            return False
+        if(self.course.course_number == courseToFind.course_number):
+            return True 
+        if (courseToFind.course_number < self.course.course_number):
+            if self.left: 
+                return self.left.find(courseToFind) 
+            return False 
+        if(self.right):
+            return self.right.find(courseToFind)
