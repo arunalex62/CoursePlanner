@@ -45,7 +45,15 @@ import re
 # print(re.sub('<[^<]+?>', '', course_info['preAndCorequisites']))
 
 def main(): 
-    API_Functions.Course_CSV_Fill("MATH")
+    lst = [Course.Course() for i in range(100)]
+    test = input("Have you completed all First Year courses? (y/n)\n")
+    while(test != "y" and test != "n"):
+         test = input("Please enter an input (y/n) if you have completed all First Year Courses\n")
+    if(test == "n"):
+        test = "TEST"
+    elif(test == "y"): 
+        print("hi")
+        lst.append(Course.Course.add(test, "MATH", "100"))
 
 if __name__ == "__main__": 
     main()

@@ -2,10 +2,11 @@ import csv
 import json
 from urllib.request import urlopen
 import re
+import Course
 
-def Course_CSV_Fill(topic):
+def Subject_CSV_Fill(topic):
     file = open('courses.json')
-    file_name = topic + '.csv'
+    file_name = "courses/" + topic + '.csv'
     with open(file_name, 'w', newline='') as file1: 
         writer = csv.writer(file1)
         writer.writerow(["Department", "Number", "Description", "coAndPrerequisites"])
