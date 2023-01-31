@@ -6,7 +6,7 @@ import Course
 
 def Subject_CSV_Fill(topic):
     file = open('courses.json')
-    file_name = "courses/" + topic + '.csv'
+    file_name = "../courses/" + topic + '.csv'
     with open(file_name, 'w', newline='') as file1: 
         writer = csv.writer(file1)
         writer.writerow(["Department", "Number", "Description", "coAndPrerequisites"])

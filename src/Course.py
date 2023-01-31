@@ -30,7 +30,7 @@ class Course:
     
     def add(self, course_subject, course_number): 
         print(self.status)
-        csv_file = csv.reader(open('courses/' + course_subject + '.csv', "r"), delimiter=",")
+        csv_file = csv.reader(open('../courses/' + course_subject + '.csv', "r"), delimiter=",")
 
         for row in csv_file: 
             if(row[0] == course_subject and row[1] == course_number): 
