@@ -1,0 +1,73 @@
+Department,Number,Description,coAndPrerequisites
+BIOL,150A,Modern Biology,
+BIOL,150B,Modern Biology,
+BIOL,184,Evolution and Biodiversity,Complete 1 of the followingComplete 1 of: BIOL150A - Modern Biology (1.5)BIOL150B - Modern Biology (1.5)BIOL186 - Physiology and Cell Biology (1.5)Biology 11Biology 12or permission of the department.
+BIOL,186,Physiology and Cell Biology,Complete 1 of the followingComplete 1 of: BIOL150A - Modern Biology (1.5)BIOL150B - Modern Biology (1.5)BIOL184 - Evolution and Biodiversity (1.5)Biology 11Biology 12or permission of the department.
+BIOL,215,Principles of Ecology,Complete all of the followingComplete 1 of: BIOL184 - Evolution and Biodiversity (1.5)BIOL190B - General Biology II (1.5)Complete 1 of: BIOL186 - Physiology and Cell Biology (1.5)BIOL190A - General Biology I (1.5)or permission of the department.
+BIOL,225,Principles of Cell Biology,Complete 1 of: BIOL186 - Physiology and Cell Biology (1.5)BIOL190A - General Biology I (1.5) or permission of the department.
+BIOL,230,Principles of Genetics,Complete all of: BIOL225 - Principles of Cell Biology (1.5)
+BIOL,248,Topics in Organismal Biology,Complete all of the followingEarned a minimum grade of C+ in 1 of: BIOL186 - Physiology and Cell Biology (1.5)BIOL190A - General Biology I (1.5)Complete 1 of: BIOL184 - Evolution and Biodiversity (1.5)BIOL190B - General Biology II (1.5)MICR200A - Introductory Microbiology I (1.5)
+BIOL,307,Chordate Zoology,Complete all of the followingComplete 1 of: BIOL184 - Evolution and Biodiversity (1.5)BIOL190B - General Biology II (1.5)Complete 1 of: BIOL186 - Physiology and Cell Biology (1.5)BIOL190A - General Biology I (1.5)
+BIOL,309,Developmental Biology,Complete 1 of the followingComplete all of: BIOL225 - Principles of Cell Biology (1.5)BIOC299 - Biochemistry for Non-Majors (1.5)Complete all of: BIOL230 - Principles of Genetics (1.5)Complete all of: BIOC300B - General Biochemistry II (1.5)
+BIOL,311,Biological Oceanography,Complete all of the followingComplete 1 of: CHEM101 - Fundamentals of Chemistry from Atoms to Materials (1.5)CHEM150 - Engineering Chemistry (1.5)Complete all of: CHEM102 - Chemical Reactivity Fundamentals with Environmental Applications (1.5)Complete 2 of: MATH100 - Calculus I (1.5)MATH101 - Calculus II (1.5)MATH102 - Calculus for Students in the Social and Biological Sciences (1.5)MATH109 - Introduction to Calculus (1.5)MATH151 - Finite Mathematics (1.5)Complete 1 of the followingComplete all of: PHYS102 - General Physics (3.0)Complete all of: PHYS102A - General Physics I (1.5)PHYS102B - General Physics II (1.5)Complete all of: PHYS110 - Introductory Physics I (1.5)PHYS111 - Introductory Physics II (1.5)Complete all of: PHYS120 - Physics I (1.5)PHYS130 - Physics II (1.5)minimum third-year standing.
+BIOL,312,Entomology,Complete all of the followingComplete 1 of the followingComplete all of: BIOL184 - Evolution and Biodiversity (1.5)BIOL186 - Physiology and Cell Biology (1.5)Complete all of: BIOL190B - General Biology II (1.5)Complete all of: BIOL215 - Principles of Ecology (1.5)
+BIOL,319,Marine Ecology,Complete all of the followingComplete all of: BIOL215 - Principles of Ecology (1.5)BIOL321 - Survey of Invertebrates (1.5)Complete 1 of: STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)
+BIOL,321,Survey of Invertebrates,Complete all of the followingComplete 1 of: BIOL186 - Physiology and Cell Biology (1.5)BIOL190A - General Biology I (1.5)Complete 1 of: BIOL184 - Evolution and Biodiversity (1.5)BIOL190B - General Biology II (1.5)Complete all of: BIOL225 - Principles of Cell Biology (1.5)
+BIOL,322,Biology of Marine Invertebrates,Complete all of: BIOL321 - Survey of Invertebrates (1.5)
+BIOL,324,Biology of Land Plants,Complete all of the followingComplete 1 of: BIOL184 - Evolution and Biodiversity (1.5)BIOL190B - General Biology II (1.5)Complete 1 of: BIOL186 - Physiology and Cell Biology (1.5)BIOL190A - General Biology I (1.5)
+BIOL,325,Tree Biology,Earn a minimum grade of B in each of the following: BIOL225 - Principles of Cell Biology (1.5)
+BIOL,326,Development and Genetics of Model Plants,Complete all of: BIOL215 - Principles of Ecology (1.5)BIOL225 - Principles of Cell Biology (1.5)BIOL230 - Principles of Genetics (1.5)
+BIOL,329,Biology of the Vertebrates of British Columbia,Complete all of the followingComplete all of: BIOL215 - Principles of Ecology (1.5)minimum third-year standing.
+BIOL,330,Study Design and Data Analysis,Complete all of the followingComplete 1 of: STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)minimum third-year standing.
+BIOL,334,Plants and People,Minimum third-year standing.
+BIOL,335,Ichthyology,Complete all of the followingComplete all of: BIOL215 - Principles of Ecology (1.5)minimum third-year standing.
+BIOL,336,Biology of Algae,Complete all of: BIOL215 - Principles of Ecology (1.5)BIOL225 - Principles of Cell Biology (1.5)
+BIOL,345,Animal Behaviour,Complete all of the followingComplete 1 of: BIOL184 - Evolution and Biodiversity (1.5)BIOL190B - General Biology II (1.5)Complete 1 of: BIOL186 - Physiology and Cell Biology (1.5)BIOL190A - General Biology I (1.5)minimum third-year standingComplete 1 of the followingComplete all of: BIOL215 - Principles of Ecology (1.5)declared Honours or Major in Anthropology or declared Honours or Major in Combined Biology and Psychology.
+BIOL,346,Freshwater Ecosystems,Complete 1 of: BIOL215 - Principles of Ecology (1.5)ES240 - Ecological Processes (1.5)GEOG272 - Introduction to Climatology and Hydrology (1.5)
+BIOL,351,The Biology behind the News,Minimum third-year standing.
+BIOL,355,Evolution,Complete all of: BIOL230 - Principles of Genetics (1.5)
+BIOL,359,"Food, Disease and People",Minimum third-year standing.
+BIOL,360,Cell Biology,Complete all of the followingComplete 1 of the followingComplete all of: BIOL230 - Principles of Genetics (1.5)Complete all of: BME200 - Molecular and Cellular Physiology for Engineers (1.5)BME201 - Quantitative Human Physiology (1.5)Complete 1 of the followingComplete all of: BIOC299 - Biochemistry for Non-Majors (1.5)Completed or concurrently enrolled in 1 of: BIOC300A - General Biochemistry I (1.5)BIOC300B - General Biochemistry II (1.5)
+BIOL,361,Molecular Genetics and Genomics,Complete all of the followingComplete all of: BIOL230 - Principles of Genetics (1.5)Complete 1 of the followingComplete all of: BIOC299 - Biochemistry for Non-Majors (1.5)Completed or concurrently enrolled in all of: BIOC300A - General Biochemistry I (1.5)BIOC300B - General Biochemistry II (1.5)
+BIOL,362,Techniques in Molecular Biology,Complete all of: BIOL230 - Principles of Genetics (1.5)
+BIOL,365,Animal Physiology,Complete all of the followingComplete 1 of the followingComplete all of: BIOL184 - Evolution and Biodiversity (1.5)BIOL186 - Physiology and Cell Biology (1.5)Complete all of: BIOL190B - General Biology II (1.5)Complete all of: BIOL225 - Principles of Cell Biology (1.5)minimum third-year standing.
+BIOL,366,Plant Physiology,Complete all of: BIOL225 - Principles of Cell Biology (1.5)
+BIOL,367,Neurobiology: Molecules to Behaviour,Complete 1 of: BIOL360 - Cell Biology (1.5)BIOL365 - Animal Physiology (1.5)BME200 - Molecular and Cellular Physiology for Engineers (1.5)BME201 - Quantitative Human Physiology (1.5)
+BIOL,370,Conservation Biology,Complete all of the followingComplete 1 of: BIOL186 - Physiology and Cell Biology (1.5)BIOL190A - General Biology I (1.5)Complete all of: BIOL215 - Principles of Ecology (1.5)BIOL230 - Principles of Genetics (1.5)Complete 1 of: STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)
+BIOL,400,History of Biology,Minimum third-year standing.
+BIOL,401A,Biotechnology,Completed or concurrently enrolled in 1 of: BIOL360 - Cell Biology (1.5)BIOL361 - Molecular Genetics and Genomics (1.5)BIOC300B - General Biochemistry II (1.5)
+BIOL,404,Sensory Biology,Complete 1 of: BIOL360 - Cell Biology (1.5)BIOL367 - Neurobiology: Molecules to Behaviour (1.5)BIOL409A - Neurobiology: Molecules to Behaviour  (1.5)
+BIOL,409B,Experimental Neurobiology,Complete all of: BIOL367 - Neurobiology: Molecules to Behaviour (1.5)or permission of the department.
+BIOL,410,Herpetology,Complete 1 of: BIOL307 - Chordate Zoology (1.5)BIOL207 - Chordate Zoology (1.5)
+BIOL,415C,Mycology,Complete all of: BIOL215 - Principles of Ecology (1.5)BIOL225 - Principles of Cell Biology (1.5)BIOL230 - Principles of Genetics (1.5)
+BIOL,418,Forest Ecology,Complete all of the followingComplete all of: BIOL215 - Principles of Ecology (1.5)minimum third year standing.
+BIOL,432,Molecular Endocrinology,Complete 1 of: BIOL360 - Cell Biology (1.5)BIOL365 - Animal Physiology (1.5)BIOC299 - Biochemistry for Non-Majors (1.5)BIOC300A - General Biochemistry I (1.5)BIOC300B - General Biochemistry II (1.5)
+BIOL,435,Molecular Evolution,Complete all of: BIOL230 - Principles of Genetics (1.5)
+BIOL,436,Human Molecular Genetics,Complete all of the followingComplete all of: BIOL225 - Principles of Cell Biology (1.5)BIOL230 - Principles of Genetics (1.5)Complete 1 of: BIOL361 - Molecular Genetics and Genomics (1.5)BIOC300A - General Biochemistry I (1.5)BIOC300B - General Biochemistry II (1.5)or permission of the department.
+BIOL,438,Nutrient Cycling and Prokaryotes,Complete 1 of the followingComplete 2 of: BIOL215 - Principles of Ecology (1.5)BIOL225 - Principles of Cell Biology (1.5)BIOL230 - Principles of Genetics (1.5)Complete all of: MICR200A - Introductory Microbiology I (1.5)MICR200B - Introductory Microbiology II (1.5)or permission of the department.
+BIOL,439,Molecular Epidemiology,Complete all of the followingComplete all of: BIOL225 - Principles of Cell Biology (1.5)BIOL230 - Principles of Genetics (1.5)Complete 1 of: STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)
+BIOL,446,Advanced Aquatic Ecology,Complete all of the followingComplete 1 of: BIOL215 - Principles of Ecology (1.5)BIOL311 - Biological Oceanography (1.5)BIOL311B - Chemical and Biological Oceanography (1.5)BIOL330 - Study Design and Data Analysis (1.5)EOS311 - Biological Oceanography (1.5)ES310 - Ecological Methods (1.5)ES344 - Study Design and Data Analysis (1.5)GEOG371 - Water Resources Management (1.5)minimum fourth-year standing.
+BIOL,447,Ion Channels and Disease,Complete 1 of: BIOL360 - Cell Biology (1.5)BIOL365 - Animal Physiology (1.5)
+BIOL,448,Neuroethology,Complete 1 of: BIOL345 - Animal Behaviour (1.5)BIOL365 - Animal Physiology (1.5)BIOL305A - Animal Physiology (1.5)BIOL305B - Animal Physiology (1.5)
+BIOL,449,Flowering Plant Diversity,Complete all of the followingComplete 1 of: BIOL184 - Evolution and Biodiversity (1.5)BIOL190B - General Biology II (1.5)Complete 1 of: BIOL186 - Physiology and Cell Biology (1.5)BIOL190A - General Biology I (1.5)minimum third-year standing.
+BIOL,457,Paleoecology and Environmental Change,Complete all of the followingComplete 1 of: BIOL215 - Principles of Ecology (1.5)EOS330 - Paleobiology (1.5)minimum third-year standingor permission of the department.
+BIOL,458,Plant Biochemistry and Biochemical Ecology,Complete 1 of: BIOC299 - Biochemistry for Non-Majors (1.5)BIOC300A - General Biochemistry I (1.5)BIOC300B - General Biochemistry II (1.5)
+BIOL,459,Human Microbial Diseases,Complete 2 of: BIOL215 - Principles of Ecology (1.5)BIOL225 - Principles of Cell Biology (1.5)BIOL230 - Principles of Genetics (1.5)
+BIOL,460,Honours Seminar,
+BIOL,461,Fisheries Ecology and Management,Complete 1 of the followingCompleted or concurrently enrolled in 1 of: BIOL330 - Study Design and Data Analysis (1.5)BIOL370 - Conservation Biology (1.5)ES320 - Conservation Biology (1.5)ES344 - Study Design and Data Analysis (1.5)or permission of the department.
+BIOL,462,Community and Ecosystem,Complete all of: BIOL215 - Principles of Ecology (1.5)
+BIOL,465,The Molecular Basis of Cancer,Complete all of the followingComplete all of: BIOL225 - Principles of Cell Biology (1.5)BIOL230 - Principles of Genetics (1.5)Complete 1 of: BIOL360 - Cell Biology (1.5)BIOC300A - General Biochemistry I (1.5)BIOC300B - General Biochemistry II (1.5)
+BIOL,466,Frontiers in Marine Biology,Complete 1 of: BIOL311 - Biological Oceanography (1.5)BIOL319 - Marine Ecology (1.5)EOS311 - Biological Oceanography (1.5)
+BIOL,467,Neural Development,Complete 1 of: BIOL309 - Developmental Biology (1.5)BIOL360 - Cell Biology (1.5)BIOL367 - Neurobiology: Molecules to Behaviour (1.5)
+BIOL,468,Food Web Ecology,Complete all of the followingComplete all of: BIOL215 - Principles of Ecology (1.5)minimum third-year standing.
+BIOL,470,Advanced Topics in Biology,Set by department depending upon topic.
+BIOL,490A,Directed Studies and Research in Botany,Complete all of the followingMinimum third-year standingminimum cumulative GPA of 5.0 in the last 15 units of coursework.
+BIOL,490B,Directed Studies and Research in Ecology,Complete all of the followingMinimum third-year standingminimum cumulative GPA of 5.0 in the last 15 units of coursework.
+BIOL,490D,Directed Studies and Research in Marine Biology,Complete all of the followingMinimum third-year standingminimum cumulative GPA of 5.0 in the last 15 units of coursework.
+BIOL,490E,Directed Studies and Research in Zoology,Complete all of the followingMinimum third-year standingminimum cumulative GPA of 5.0 in the last 15 units of coursework.
+BIOL,490F,Directed Studies and Research in Cell and Molecular Biology,Complete all of the followingMinimum third-year standingminimum cumulative GPA of 5.0 in the last 15 units of coursework.
+BIOL,490G,Directed Studies and Research in Evolution,Complete all of the followingMinimum third-year standingminimum cumulative GPA of 5.0 in the last 15 units of coursework.
+BIOL,490H,Directed Studies and Research in Neurobiology,Complete all of the followingMinimum third-year standingminimum cumulative GPA of 5.0 in the last 15 units of coursework.
+BIOL,490J,Directed Studies and Research in Forest Biology,Complete all of the followingMinimum third-year standingminimum cumulative GPA of 5.0 in the last 15 units of coursework.
+BIOL,499A,Honours Thesis I,Permission of the department.
+BIOL,499B,Honours Thesis II,Complete all of: BIOL499A - Honours Thesis I (1.5)
