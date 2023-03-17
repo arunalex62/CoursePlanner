@@ -21,7 +21,7 @@ def Subject_CSV_Fill(topic):
                 #print statements here are just for debugging in terminal, and to see if the program is working correctly.
                 print(i['__catalogCourseId'] + ", " + i['title'] + ", " + i['pid'])
                 print(i['title'])
-                #Exceptions account for if a course has no PreOrCorequisites.
+                #Exceptions for if a course has no PreOrCorequisites.
                 try:
                     writer.writerow([topic, re.sub(topic, '', i['__catalogCourseId']), i['title'], re.sub('<[^<]+?>', '', course_info['preAndCorequisites'])])
                 except KeyError as noPreAndCorequisites:
