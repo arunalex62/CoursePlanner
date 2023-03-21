@@ -11,24 +11,29 @@ ENGR,120,Design and Communication II,Complete all of the followingComplete 1 of 
 ENGR,141,Engineering Mechanics,Complete all of the followingComplete 1 of: MATH100 - Calculus I (1.5)MATH109 - Introduction to Calculus (1.5)Completed or concurrently enrolled in 1 of: MATH110 - Matrix Algebra for Engineers (1.5)MATH211 - Matrix Algebra I (1.5),1
 PHYS,111,Introductory Physics II,Complete all of: PHYS110 - Introductory Physics I (1.5),1
 MATH,122,Logic and Foundations,Complete 1 of: MATH100 - Calculus I (1.5)MATH102 - Calculus for Students in the Social and Biological Sciences (1.5)MATH109 - Introduction to Calculus (1.5)MATH151 - Finite Mathematics (1.5)or permission of the department.,2
-CHEM,101,Fundamentals of Chemistry from Atoms to Materials,Complete all of the followingChemistry 11Complete 1 of the followingComplete all of: MATH120 - Precalculus Mathematics (1.5)Pre-Calculus 12Principles of Mathematics 12or permission of the department.,2
+CHEM,101,Fundamentals of Chemistry from Atoms to Materials,,2
 ECE,260,Continuous-Time Signals and Systems,Complete all of the followingComplete all of: MATH101 - Calculus II (1.5)Complete 1 of the followingComplete all of: MATH110 - Matrix Algebra for Engineers (1.5)Completed or concurrently enrolled in all of: MATH211 - Matrix Algebra I (1.5),2
 STAT,260,Introduction to Probability and Statistics I,Completed or concurrently enrolled in 1 of: MATH101 - Calculus II (1.5)MATH208 - Mathematics for Economics and Econometrics (1.5),2
 ECE,255,Introduction to Computer Architecture,Complete all of: CSC111 - Fundamentals of Programming with Engineering Applications (1.5),2
 SENG,265,Software Development Methods,Complete 1 of: CSC115 - Fundamentals of Programming II (1.5)CSC116 - Fundamentals of Programming with Engineering Applications II (1.5),2
 SENG,275,Software Testing,Complete all of: SENG265 - Software Development Methods (1.5),2
-SENG,310,Human Computer Interaction,Complete 1 of: SENG221 - SOFTWARE ARCH+DEV METHOD (1.5)SENG265 - Software Development Methods (1.5)CENG241 - Digital Design (1.5)ECE241 - Digital Design (1.5),2
+SENG,310,Human Computer Interaction,Complete 1 of: SENG221 - SOFTWARE ARCH+DEV METHOD (1.5)SENG265 - Software Development Methods (1.5)ECE241 - Digital Design (1.5)ECE241 - Digital Design (1.5),2
 CSC,225,Algorithms and Data Structures I,Complete all of the followingComplete 1 of: CSC115 - Fundamentals of Programming II (1.5)CSC116 - Fundamentals of Programming with Engineering Applications II (1.5)Complete all of: MATH122 - Logic and Foundations (1.5),2
 ECON,180,Introduction to Principles of Microeconomics and Financial Project Evaluation,Complete all of the followingComplete all of: MATH101 - Calculus II (1.5)admission to BEng or BSEng program.,2
 ECE,310,Digital Signal Processing I,Complete 1 of: ECE260 - Continuous-Time Signals and Systems (1.5)ELEC260 - Continuous-Time Signals and Systems (1.5),2
-ECE,458,Communication Networks,Complete 1 of: ECE255 - Introduction to Computer Architecture (1.5)CENG255 - Introduction to Computer Architecture (1.5)CSC230 - Introduction to Computer Architecture (1.5),3
+ECE,458,Communication Networks,Complete 1 of: ECE255 - Introduction to Computer Architecture (1.5)ECE255 - Introduction to Computer Architecture (1.5)CSC230 - Introduction to Computer Architecture (1.5),3
 CSC,226,Algorithms and Data Structures II,Complete all of: CSC225 - Algorithms and Data Structures I (1.5),3
 ECE,360,Control Theory and Systems I,Complete 1 of: ECE260 - Continuous-Time Signals and Systems (1.5)ELEC260 - Continuous-Time Signals and Systems (1.5),3
 SENG,321,Requirements Engineering,Complete all of: SENG265 - Software Development Methods (1.5),3
 SENG,371,Software Evolution,Complete 1 of: SENG271 - Software Model Engineering (1.5)SENG275 - Software Testing (1.5)SENG299 - Software Architecture and Design (1.5)SENG321 - Requirements Engineering (1.5),3
-ECE,355,Microprocessor-Based Systems,Complete all of the followingComplete 1 of: ECE241 - Digital Design (1.5)CENG241 - Digital Design (1.5)MATH122 - Logic and Foundations (1.5)Complete 1 of: ECE255 - Introduction to Computer Architecture (1.5)CENG255 - Introduction to Computer Architecture (1.5)CSC230 - Introduction to Computer Architecture (1.5),3
+ECE,355,Microprocessor-Based Systems,Complete all of the followingComplete 1 of: ECE241 - Digital Design (1.5)ECE241 - Digital Design (1.5)MATH122 - Logic and Foundations (1.5)Complete 1 of: ECE255 - Introduction to Computer Architecture (1.5)ECE255 - Introduction to Computer Architecture (1.5)CSC230 - Introduction to Computer Architecture (1.5),3
 CSC,320,Foundations of Computer Science,Complete all of: CSC226 - Algorithms and Data Structures II (1.5),3
-CSC,360,Operating Systems,Complete all of the followingComplete all of: SENG265 - Software Development Methods (1.5)Complete 1 of: CSC230 - Introduction to Computer Architecture (1.5)CENG255 - Introduction to Computer Architecture (1.5)ECE255 - Introduction to Computer Architecture (1.5),3
+CSC,360,Operating Systems,Complete all of the followingComplete all of: SENG265 - Software Development Methods (1.5)Complete 1 of: CSC230 - Introduction to Computer Architecture (1.5)ECE255 - Introduction to Computer Architecture (1.5)ECE255 - Introduction to Computer Architecture (1.5),3
 CSC,370,Database Systems,Complete all of: CSC226 - Algorithms and Data Structures II (1.5)SENG265 - Software Development Methods (1.5),3
 SENG,350,Software Architecture and Design,Complete all of the followingComplete all of: SENG275 - Software Testing (1.5)minimum second-year standing.,3
-SENG,371,Software Evolution,Complete 1 of: SENG271 - Software Model Engineering (1.5)SENG275 - Software Testing (1.5)SENG299 - Software Architecture and Design (1.5)SENG321 - Requirements Engineering (1.5),3
+SENG,360,Security Engineering,Complete all of the followingComplete all of: SENG265 - Software Development Methods (1.5)minimum third-year standing in the Software Engineering or Computer Engineering or Computer Science program.,3
+SENG,426,Software Quality Engineering,Complete all of the followingComplete 1 of: SENG321 - Requirements Engineering (1.5)SENG371 - Software Evolution (1.5)ECE356 - Engineering System Software (1.5)ECE356 - Engineering System Software (1.5)Complete all of: SENG275 - Software Testing (1.5),4
+SENG,440,Embedded Systems,Complete 1 of: ECE355 - Microprocessor-Based Systems (1.5)CSC355 - Digital Logic and Computer Organization (1.5)ECE355 - Microprocessor-Based Systems (1.5),4
+SENG,499,Design Project II,Complete all of the followingComplete 1 of: SENG299 - Software Architecture and Design (1.5)SENG350 - Software Architecture and Design (1.5)Complete all of: ENGR002 - Work Term 2 (4.5)minimum fourth-year standing in the Software Engineering program.,4
+ECE,455,Real Time Computer Systems Design Project,Complete 1 of: ECE355 - Microprocessor-Based Systems (1.5)ECE355 - Microprocessor-Based Systems (1.5)CSC355 - Digital Logic and Computer Organization (1.5),4
+SENG,401,Social and Professional Issues,Minimum fourth-year standing.,4
