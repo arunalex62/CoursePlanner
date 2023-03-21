@@ -1,0 +1,48 @@
+Department,Number,Description,coAndPrerequisites
+CHEM,091,Introduction to Chemistry,Complete all of the followingChemistry 11Complete 1 of the followingComplete all of: MATH120 - Precalculus Mathematics (1.5)Pre-Calculus 12Principles of Mathematics 12or permission of the department.
+CHEM,101,Fundamentals of Chemistry from Atoms to Materials,
+CHEM,102,Chemical Reactivity Fundamentals with Environmental Applications,Complete all of the followingComplete 1 of the followingChemistry 12Complete all of: CHEM091 - Introduction to Chemistry (0)Complete 1 of: CHEM101 - Fundamentals of Chemistry from Atoms to Materials (1.5)CHEM150 - Engineering Chemistry (1.5)
+CHEM,150,Engineering Chemistry,Complete all of the followingChemistry 11Pre-Calculus 12 or Principles of Mathematics 12admission to BEng or BSEng programor permission of the department.
+CHEM,212,Introduction to Quantitative Analysis,Complete all of: CHEM102 - Chemical Reactivity Fundamentals with Environmental Applications (1.5)
+CHEM,222,Introduction to Inorganic Chemistry with Laboratory,Complete all of the followingComplete all of: CHEM102 - Chemical Reactivity Fundamentals with Environmental Applications (1.5)Complete 1 of: CHEM213 - Practical Spectroscopy (1.5)CHEM232 - Organic Chemistry with Biological Applications with Laboratory (1.5)
+CHEM,225,Introduction to Inorganic Chemistry,Complete all of: CHEM102 - Chemical Reactivity Fundamentals with Environmental Applications (1.5)
+CHEM,231,Introduction to Organic Chemistry,Complete 1 of: CHEM101 - Fundamentals of Chemistry from Atoms to Materials (1.5)CHEM150 - Engineering Chemistry (1.5)
+CHEM,232,Organic Chemistry with Biological Applications with Laboratory,Complete all of the followingComplete all of: CHEM231 - Introduction to Organic Chemistry (1.5)Complete 1 of: CHEM213 - Practical Spectroscopy (1.5)CHEM222 - Introduction to Inorganic Chemistry with Laboratory (1.5)
+CHEM,234,Organic Chemistry with Biological Applications,Complete all of: CHEM102 - Chemical Reactivity Fundamentals with Environmental Applications (1.5)CHEM231 - Introduction to Organic Chemistry (1.5)
+CHEM,245,Introduction to Thermodynamics,Complete all of the followingComplete all of: CHEM102 - Chemical Reactivity Fundamentals with Environmental Applications (1.5)Complete 1 of: MATH100 - Calculus I (1.5)MATH102 - Calculus for Students in the Social and Biological Sciences (1.5)MATH109 - Introduction to Calculus (1.5)
+CHEM,260,Synthetic Chemistry Laboratory,Complete all of: CHEM102 - Chemical Reactivity Fundamentals with Environmental Applications (1.5)CHEM231 - Introduction to Organic Chemistry (1.5)
+CHEM,298,Research Experience,Permission of the department.
+CHEM,300A,Chemistry in Modern Society,
+CHEM,318,Instrumental Techniques of Analysis,Complete all of: CHEM212 - Introduction to Quantitative Analysis (1.5)
+CHEM,324,Transition Metal Chemistry,Complete 1 of the followingComplete all of: CHEM222 - Introduction to Inorganic Chemistry with Laboratory (1.5)Complete all of: CHEM225 - Introduction to Inorganic Chemistry (1.5)CHEM260 - Synthetic Chemistry Laboratory (1.5)
+CHEM,337,Bio-organic Chemistry,Complete 1 of: CHEM232 - Organic Chemistry with Biological Applications with Laboratory (1.5)CHEM234 - Organic Chemistry with Biological Applications (1.5)
+CHEM,347,Quantum Chemistry,Complete all of: CHEM245 - Introduction to Thermodynamics (1.5)MATH101 - Calculus II (1.5)
+CHEM,361,Analytical Chemistry Laboratory,Complete all of: CHEM212 - Introduction to Quantitative Analysis (1.5)
+CHEM,362,Inorganic Chemistry Laboratory,Complete 1 of the followingComplete all of: CHEM213 - Practical Spectroscopy (1.5)CHEM222 - Introduction to Inorganic Chemistry with Laboratory (1.5)Complete all of: CHEM225 - Introduction to Inorganic Chemistry (1.5)CHEM260 - Synthetic Chemistry Laboratory (1.5)
+CHEM,363,Organic Chemistry Laboratory,Complete 1 of the followingComplete all of: CHEM213 - Practical Spectroscopy (1.5)CHEM232 - Organic Chemistry with Biological Applications with Laboratory (1.5)Complete all of: CHEM234 - Organic Chemistry with Biological Applications (1.5)CHEM260 - Synthetic Chemistry Laboratory (1.5)
+CHEM,364,Physical Chemistry Laboratory,Complete all of: CHEM212 - Introduction to Quantitative Analysis (1.5)CHEM245 - Introduction to Thermodynamics (1.5)
+CHEM,398,Research Experience,Permission of the department.
+CHEM,399,Research Experience,Permission of the department.
+CHEM,405,Professional Development and Societal Engagement for Chemists,Complete all of the followingMinimum third year standingdeclared Honours or Major in a Chemistry Program.
+CHEM,411,Advanced Instrumental Analysis,Complete all of: CHEM318 - Instrumental Techniques of Analysis (1.5)
+CHEM,421,Contemporary Inorganic Chemistry,Complete all of: CHEM324 - Transition Metal Chemistry (1.5)
+CHEM,423,Organometallics and Catalysis,Complete all of: CHEM324 - Transition Metal Chemistry (1.5)
+CHEM,432,Organic Synthesis,Complete 1 of the followingComplete all of: CHEM232 - Organic Chemistry with Biological Applications with Laboratory (1.5)Complete all of: CHEM234 - Organic Chemistry with Biological Applications (1.5)CHEM260 - Synthetic Chemistry Laboratory (1.5)
+CHEM,437,Biological and Medicinal Chemistry,Complete all of the followingComplete 1 of: CHEM232 - Organic Chemistry with Biological Applications with Laboratory (1.5)CHEM234 - Organic Chemistry with Biological Applications (1.5)Complete 1 of: BIOC299 - Biochemistry for Non-Majors (1.5)BIOC300A - General Biochemistry I (1.5)
+CHEM,447,Advanced Molecular Spectroscopy,Complete all of: CHEM347 - Quantum Chemistry (1.5)
+CHEM,451,Nuclear Magnetic Resonance and its Applications,Complete 1 of: CHEM213 - Practical Spectroscopy (1.5)CHEM260 - Synthetic Chemistry Laboratory (1.5)
+CHEM,452,Reaction Mechanisms and Dynamics,Complete all of the followingComplete 1 of: CHEM222 - Introduction to Inorganic Chemistry with Laboratory (1.5)CHEM225 - Introduction to Inorganic Chemistry (1.5)Complete 1 of: CHEM232 - Organic Chemistry with Biological Applications with Laboratory (1.5)CHEM234 - Organic Chemistry with Biological Applications (1.5)
+CHEM,453,"Structure, Reactivity and Bonding",Complete all of the followingComplete 1 of: CHEM232 - Organic Chemistry with Biological Applications with Laboratory (1.5)CHEM234 - Organic Chemistry with Biological Applications (1.5)Complete all of: CHEM324 - Transition Metal Chemistry (1.5)
+CHEM,458,Statistical Thermodynamics,Complete all of: CHEM245 - Introduction to Thermodynamics (1.5)
+CHEM,459,Materials Science,Complete 1 of: CHEM222 - Introduction to Inorganic Chemistry with Laboratory (1.5)CHEM225 - Introduction to Inorganic Chemistry (1.5)
+CHEM,467,Special Topics in Experimental Chemistry,Permission of the department.
+CHEM,475,Electrochemistry and its Applications,Complete all of: CHEM245 - Introduction to Thermodynamics (1.5)CHEM318 - Instrumental Techniques of Analysis (1.5)
+CHEM,476,Polymer Chemistry,Complete all of the followingComplete 1 of: CHEM222 - Introduction to Inorganic Chemistry with Laboratory (1.5)CHEM225 - Introduction to Inorganic Chemistry (1.5)Complete 1 of: CHEM232 - Organic Chemistry with Biological Applications with Laboratory (1.5)CHEM234 - Organic Chemistry with Biological Applications (1.5)Complete all of: CHEM245 - Introduction to Thermodynamics (1.5)
+CHEM,477,Computational Chemistry,Complete all of: CHEM347 - Quantum Chemistry (1.5)
+CHEM,478,Industrial Chemistry,Complete all of the followingComplete 1 of: CHEM222 - Introduction to Inorganic Chemistry with Laboratory (1.5)CHEM225 - Introduction to Inorganic Chemistry (1.5)Complete 1 of: CHEM232 - Organic Chemistry with Biological Applications with Laboratory (1.5)CHEM234 - Organic Chemistry with Biological Applications (1.5)Complete all of: CHEM245 - Introduction to Thermodynamics (1.5)
+CHEM,489,Special Topics in Chemistry,Permission of the department.
+CHEM,490,Directed Studies in Chemistry,
+CHEM,498A,Advanced Research Experience I,
+CHEM,498B,Advanced Research Experience II,
+CHEM,499A,Honours Thesis I,Declared Honours in  one of the Chemistry programs.
+CHEM,499B,Honours Thesis II,Declared Honours in  one of the Chemistry programs.

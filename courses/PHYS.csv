@@ -1,0 +1,45 @@
+Department,Number,Description,coAndPrerequisites
+PHYS,102A,General Physics I,
+PHYS,102B,General Physics II,Complete all of: PHYS102A - General Physics I (1.5)
+PHYS,110,Introductory Physics I,Completed or concurrently enrolled in 1 of: MATH100 - Calculus I (1.5)MATH102 - Calculus for Students in the Social and Biological Sciences (1.5)MATH109 - Introduction to Calculus (1.5)
+PHYS,111,Introductory Physics II,Complete all of: PHYS110 - Introductory Physics I (1.5)
+PHYS,120,Physics I,Complete 1 of the following1.5 units of 100-level PHYSCompleted Physics 12  with a minimum grade of B (73%) 
+PHYS,130,Physics II,Complete all of: PHYS120 - Physics I (1.5)
+PHYS,210,Introductory Geophysics,Complete all of the followingComplete 1 of: PHYS110 - Introductory Physics I (1.5)PHYS120 - Physics I (1.5)Complete all of: MATH101 - Calculus II (1.5)
+PHYS,215,Introductory Quantum Physics,Complete 1 of the followingComplete all of: PHYS110 - Introductory Physics I (1.5)PHYS111 - Introductory Physics II (1.5)Complete all of: PHYS120 - Physics I (1.5)PHYS130 - Physics II (1.5)
+PHYS,216,Introductory Electricity and Magnetism,Complete 1 of the followingComplete all of: PHYS110 - Introductory Physics I (1.5)PHYS111 - Introductory Physics II (1.5)Complete all of: PHYS120 - Physics I (1.5)PHYS130 - Physics II (1.5)
+PHYS,229,Introduction to Experimental Physics,Complete all of the followingComplete 1 of the followingComplete all of: PHYS110 - Introductory Physics I (1.5)PHYS111 - Introductory Physics II (1.5)Complete all of: PHYS120 - Physics I (1.5)PHYS130 - Physics II (1.5)Complete all of: MATH101 - Calculus II (1.5)
+PHYS,248,Computer Assisted Mathematics and Physics,Complete all of the followingComplete 1 of: MATH110 - Matrix Algebra for Engineers (1.5)MATH211 - Matrix Algebra I (1.5)Complete all of: MATH200 - Calculus III (1.5)Complete 1 of: CSC110 - Fundamentals of Programming I (1.5)CSC111 - Fundamentals of Programming with Engineering Applications (1.5)
+PHYS,280,Special Topics in Physics,Complete 3.0 units from PHYS  100 - 499
+PHYS,290,Directed Studies,Permission of the department.
+PHYS,301,Introductory Mathematical Physics,Complete all of: PHYS215 - Introductory Quantum Physics (1.5)PHYS216 - Introductory Electricity and Magnetism (1.5)PHYS248 - Computer Assisted Mathematics and Physics (1.5)MATH200 - Calculus III (1.5)MATH204 - Calculus IV (1.5)MATH211 - Matrix Algebra I (1.5)
+PHYS,303,"Origin of Space, Time and Matter in the Universe",Minimum third-year standingor Permission of the department.
+PHYS,313,Atomic and Molecular Physics,Complete all of: MATH204 - Calculus IV (1.5)
+PHYS,314,Nuclear Physics and Radioactivity,Complete all of: PHYS215 - Introductory Quantum Physics (1.5)PHYS216 - Introductory Electricity and Magnetism (1.5)MATH204 - Calculus IV (1.5)
+PHYS,317,Thermodynamics,Complete 1 of the followingComplete all of: PHYS110 - Introductory Physics I (1.5)PHYS111 - Introductory Physics II (1.5)Complete all of: PHYS120 - Physics I (1.5)PHYS130 - Physics II (1.5)
+PHYS,321A,Classical Mechanics I,Complete all of the followingComplete 1 of the followingComplete all of: PHYS110 - Introductory Physics I (1.5)PHYS111 - Introductory Physics II (1.5)Complete all of: PHYS120 - Physics I (1.5)PHYS130 - Physics II (1.5)Complete all of: MATH204 - Calculus IV (1.5)
+PHYS,321B,Classical Mechanics II,Complete all of: PHYS321A - Classical Mechanics I (1.5)
+PHYS,323,Quantum Mechanics I,Complete all of: PHYS215 - Introductory Quantum Physics (1.5)MATH204 - Calculus IV (1.5)
+PHYS,325,Optics,Complete all of the followingComplete 1 of: PHYS216 - Introductory Electricity and Magnetism (1.5)ECE216 - Electricity and Magnetism (1.5)ELEC216 - Electricity and Magnetism (1.5)Complete all of: MATH204 - Calculus IV (1.5)Complete 1 of: MATH110 - Matrix Algebra for Engineers (1.5)MATH211 - Matrix Algebra I (1.5)
+PHYS,326,Electricity and Magnetism,Complete all of: PHYS216 - Introductory Electricity and Magnetism (1.5)MATH204 - Calculus IV (1.5)
+PHYS,328,Solid State Physics I,Complete all of the followingCompleted or concurrently enrolled in all of: PHYS323 - Quantum Mechanics I (1.5)PHYS326 - Electricity and Magnetism (1.5)Completed or concurrently enrolled in 1 of: PHYS301 - Introductory Mathematical Physics (1.5)MATH342 - Intermediate Ordinary Differential Equations (1.5)MATH346 - Introduction to Partial Differential Equations (1.5)
+PHYS,340,Atmospheric Sciences,Complete 1 of the followingComplete all of: PHYS102 - General Physics (3.0)Complete all of: PHYS102A - General Physics I (1.5)PHYS102B - General Physics II (1.5)Complete all of: PHYS110 - Introductory Physics I (1.5)PHYS111 - Introductory Physics II (1.5)Complete all of: PHYS120 - Physics I (1.5)PHYS130 - Physics II (1.5)or permission of the department.
+PHYS,342,Computational Modeling and Analysis,Complete all of the followingComplete 1 of the followingCompleted or concurrently enrolled in all of: PHYS110 - Introductory Physics I (1.5)PHYS111 - Introductory Physics II (1.5)Completed or concurrently enrolled in all of: PHYS120 - Physics I (1.5)PHYS130 - Physics II (1.5)Completed or concurrently enrolled in 1 of: CSC110 - Fundamentals of Programming I (1.5)CSC115 - Fundamentals of Programming II (1.5)Completed or concurrently enrolled in all of: MATH200 - Calculus III (1.5)
+PHYS,410,Topics in Mathematical Physics I,Completed or concurrently enrolled in all of: PHYS321A - Classical Mechanics I (1.5)MATH211 - Matrix Algebra I (1.5)MATH346 - Introduction to Partial Differential Equations (1.5)
+PHYS,411,Time Series Analysis,Complete all of the followingComplete 2 of: PHYS321A - Classical Mechanics I (1.5)PHYS323 - Quantum Mechanics I (1.5)PHYS326 - Electricity and Magnetism (1.5)Complete all of: MATH211 - Matrix Algebra I (1.5)MATH346 - Introduction to Partial Differential Equations (1.5)
+PHYS,415,General Relativity and Cosmology,Complete all of: PHYS321A - Classical Mechanics I (1.5)PHYS326 - Electricity and Magnetism (1.5)MATH346 - Introduction to Partial Differential Equations (1.5)
+PHYS,421,Statistical Mechanics,Complete all of the followingComplete 1 of: PHYS217 - Thermodynamics (1.5)PHYS317 - Thermodynamics (1.5)Complete all of: PHYS323 - Quantum Mechanics I (1.5)MATH301 - Complex Variables (1.5)Complete 1 of: PHYS301 - Introductory Mathematical Physics (1.5)MATH342 - Intermediate Ordinary Differential Equations (1.5)MATH346 - Introduction to Partial Differential Equations (1.5)
+PHYS,422,Electromagnetic Theory,Complete all of: PHYS326 - Electricity and Magnetism (1.5)MATH301 - Complex Variables (1.5)MATH342 - Intermediate Ordinary Differential Equations (1.5)MATH346 - Introduction to Partial Differential Equations (1.5)
+PHYS,423,Quantum Mechanics II,Complete all of: PHYS321A - Classical Mechanics I (1.5)PHYS323 - Quantum Mechanics I (1.5)MATH301 - Complex Variables (1.5)MATH342 - Intermediate Ordinary Differential Equations (1.5)MATH346 - Introduction to Partial Differential Equations (1.5)
+PHYS,424,Particle Physics,Complete all of: PHYS423 - Quantum Mechanics II (1.5)or permission of the department.
+PHYS,426,Fluid Mechanics,Complete all of the followingComplete 1 of: PHYS217 - Thermodynamics (1.5)PHYS317 - Thermodynamics (1.5)Complete all of: PHYS321A - Classical Mechanics I (1.5)
+PHYS,427,Geophysics,Complete all of: PHYS321A - Classical Mechanics I (1.5)PHYS326 - Electricity and Magnetism (1.5)
+PHYS,429A,Honours Laboratory,Minimum fourth-year standingor permission of the department.
+PHYS,432,Medical Physics,Complete 1 of the followingComplete 1 of: PHYS313 - Atomic and Molecular Physics (1.5)PHYS314 - Nuclear Physics and Radioactivity (1.5)PHYS323 - Quantum Mechanics I (1.5)Complete all of: BME335 - Biosensors and Instrumentation (1.5)MATH204 - Calculus IV (1.5)
+PHYS,438,Solid State Physics II,Complete all of: PHYS328 - Solid State Physics I (1.5)
+PHYS,441,Physical Oceanography,Complete all of the followingComplete 1 of: EOS225 - Earth System Modelling (1.5)MATH204 - Calculus IV (1.5)Complete 1 of the followingComplete all of: PHYS102 - General Physics (3.0)Complete all of: PHYS102A - General Physics I (1.5)PHYS102B - General Physics II (1.5)Complete all of: PHYS110 - Introductory Physics I (1.5)PHYS111 - Introductory Physics II (1.5)Complete all of: PHYS120 - Physics I (1.5)PHYS130 - Physics II (1.5)or permission of the department.
+PHYS,460A,Colloquium I,
+PHYS,460B,Colloquium II,Complete all of: PHYS460A - Colloquium I (0)
+PHYS,480,Advanced Special Topics in Physics,Permission of the department.
+PHYS,490,Directed Studies,Permission of the department.
+PHYS,499,Honours Thesis,Complete all of the followingMinimum fourth-year standingdeclared in an Honours program offered by the department.

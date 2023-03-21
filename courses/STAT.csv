@@ -1,0 +1,27 @@
+Department,Number,Description,coAndPrerequisites
+STAT,123,Data Science,Complete 1 of the followingComplete 1 of the followingComplete all of: MATH120 - Precalculus Mathematics (1.5)Completed Pre-Calculus 12 or Principles of Mathematics 12  with a minimum grade of C+ (67%) permission of the department.
+STAT,252,Statistics for Business,Complete all of: MATH151 - Finite Mathematics (1.5)
+STAT,254,Probability and Statistics for Engineers,Admission to BEng program.
+STAT,255,Statistics for Life Sciences I,1.5 units of MATH course numbered 100 or higher.
+STAT,256,Statistics for Life Sciences II,Complete 1 of: STAT252 - Statistics for Business (1.5)STAT254 - Probability and Statistics for Engineers (1.5)STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)
+STAT,260,Introduction to Probability and Statistics I,Completed or concurrently enrolled in 1 of: MATH101 - Calculus II (1.5)MATH208 - Mathematics for Economics and Econometrics (1.5)
+STAT,261,Introduction to Probability and Statistics II,Complete all of the followingComplete 1 of: STAT254 - Probability and Statistics for Engineers (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)Complete 1 of: MATH101 - Calculus II (1.5)MATH208 - Mathematics for Economics and Econometrics (1.5)
+STAT,321,Data Management and Presentation,1.5 units of STAT course.
+STAT,350,Mathematical Statistics I,Complete all of the followingComplete 1 of: STAT252 - Statistics for Business (1.5)STAT254 - Probability and Statistics for Engineers (1.5)STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)Complete 1 of: MATH200 - Calculus III (1.5)MATH205 - Multivariable Calculus (1.5)
+STAT,353,Applied Regression Analysis,Complete all of the followingComplete 1 of: STAT256 - Statistics for Life Sciences II (1.5)STAT261 - Introduction to Probability and Statistics II (1.5)Complete 1 of: MATH110 - Matrix Algebra for Engineers (1.5)MATH211 - Matrix Algebra I (1.5)or permission of the department.
+STAT,354,Sampling Techniques,Complete 1 of: STAT256 - Statistics for Life Sciences II (1.5)STAT261 - Introduction to Probability and Statistics II (1.5)STAT355 - Statistical Methods in Health Sciences (1.5)STAT359 - Data Analysis (1.5)or permission of the department.
+STAT,355,Statistical Methods in Health Sciences,1.5 units of STAT course.
+STAT,359,Data Analysis,Complete 1 of: STAT252 - Statistics for Business (1.5)STAT254 - Probability and Statistics for Engineers (1.5)STAT255 - Statistics for Life Sciences I (1.5)STAT260 - Introduction to Probability and Statistics I (1.5)ECON245 - Descriptive Statistics and Probability (1.5)GEOG226 - Introduction to Quantitative Methods in Geography (1.5)PSYC300A - Statistical Methods in Psychology (1.5)SOCI371A - Statistical Analysis in Sociology: I (1.5)or permission of the department.
+STAT,450,Mathematical Statistics II,Complete all of the followingComplete 1 of: STAT256 - Statistics for Life Sciences II (1.5)STAT261 - Introduction to Probability and Statistics II (1.5)Complete all of: STAT350 - Mathematical Statistics I (1.5)
+STAT,453,The Design and Analysis of Experiments,Complete all of the followingComplete 1 of: STAT251 - Introduction to Statistics: II (1.5)STAT256 - Statistics for Life Sciences II (1.5)STAT261 - Introduction to Probability and Statistics II (1.5)Complete all of: STAT353 - Applied Regression Analysis (1.5)or permission of the department.
+STAT,454,Topics in Applied Statistics,Permission of the department.
+STAT,455,Distribution-Free Statistics,Complete all of the followingComplete 1 of: STAT256 - Statistics for Life Sciences II (1.5)STAT261 - Introduction to Probability and Statistics II (1.5)Complete all of: STAT350 - Mathematical Statistics I (1.5)
+STAT,456,Multivariate Analysis,Complete all of: STAT350 - Mathematical Statistics I (1.5)STAT353 - Applied Regression Analysis (1.5)
+STAT,457,Time Series Analysis,Complete 1 of the followingFor students with declared Major in Combined Financial Mathematics and EconomicsComplete all of: ECON366 - Econometrics: Part II (1.5)STAT350 - Mathematical Statistics I (1.5)For students without declared Major in Combined Financial Mathematics and EconomicsComplete all of: STAT350 - Mathematical Statistics I (1.5)STAT353 - Applied Regression Analysis (1.5)
+STAT,458,Generalized Linear Models,Complete all of: STAT350 - Mathematical Statistics I (1.5)STAT353 - Applied Regression Analysis (1.5)
+STAT,459,Survival Analysis,Complete all of: STAT350 - Mathematical Statistics I (1.5)STAT353 - Applied Regression Analysis (1.5)
+STAT,460,Bayesian Statistics,Complete all of: STAT350 - Mathematical Statistics I (1.5) or permission of the department.
+STAT,464,Statistical Computing,Complete all of the followingComplete all of: MATH211 - Matrix Algebra I (1.5)Complete 1 of: STAT261 - Introduction to Probability and Statistics II (1.5)STAT359 - Data Analysis (1.5)Earn a minimum grade of C+ in each of the following: STAT350 - Mathematical Statistics I (1.5)or permission of the department.
+STAT,465,Statistical Methods for Genomic Data,Complete all of: STAT350 - Mathematical Statistics I (1.5)STAT353 - Applied Regression Analysis (1.5)or permission of the department.
+STAT,466,Robust Statistics,Complete all of: STAT350 - Mathematical Statistics I (1.5)STAT353 - Applied Regression Analysis (1.5)or permission of the department.
+STAT,498,Seminar and Independent Project,Permission of the department.
